@@ -1,5 +1,5 @@
 # gobang
-## html+css+js实现简易版人机对战五子棋
+## html+canvas+css+js实现简易版人机对战五子棋。
 ## 效果图：
 
 
