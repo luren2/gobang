@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.title {
+  text-align: center;
+  margin-top: 50px;
+}
+.chess {
+  display: block;
+  margin: 20px auto;
+  box-shadow: 5px 5px 5px #b9b9b9, -2px -2px 2px #efefef;
+  background-color: #d8b290;
+}
+.restart {
+  padding: 10px 10px;
+  display: block;
+  width: 100px;
+  height: 50px;
+  line-height: 30px;
+  text-align: center;
+  margin: 10px auto;
+  border-radius: 15px;
+  background-color: pink;
+  font-size: 20px;
+  cursor: pointer;
+  color: white;
+  transition: all 0.3s;
+}
+.restart:hover {
+  background-color: tomato;
+}
